@@ -35,7 +35,7 @@ function Tag () {
         //     // setLoading(true);
         //   }
         
-    const [tag, setTag] = useState('Neeraj');
+    const [tag, setTag] = useState('Rohit Sharma');
         
     const {gif, loading, fetchData} = useGif(tag);
         

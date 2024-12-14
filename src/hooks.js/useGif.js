@@ -28,7 +28,7 @@ const useGif = (tag) => {
     };
 
     useEffect( () => {
-        fetchData('Neeraj');
+        fetchData('Rohit Sharma');
         // setLoading(true);
     }, [] );
 
