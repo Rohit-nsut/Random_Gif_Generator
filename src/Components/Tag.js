@@ -47,7 +47,7 @@ function Tag () {
 
 
   return (
-    <div className='lg:w-1/2 md:w-2/3 w-10/12 bg-blue-400 rounded-lg border border-black flex flex-col items-center gap-5 '>
+    <div className='lg:w-1/2 md:w-2/3 w-10/12 bg-blue-400 rounded-lg border border-black flex flex-col items-center gap-5 mb-10 '>
     
         <h1 className=' text-xl md:text-2xl font-bold uppercase underline'>Random {tag} gif</h1>
         
