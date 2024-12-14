@@ -28,7 +28,7 @@ const useGif = (tag) => {
     };
 
     useEffect( () => {
-        fetchData('car');
+        fetchData('Neeraj');
         // setLoading(true);
     }, [] );
 
